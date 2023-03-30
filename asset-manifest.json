@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/praba-todo/static/css/main.8b679611.css",
+    "main.js": "/praba-todo/static/js/main.ac0c2d31.js",
+    "static/media/bg-desktop-dark.jpg": "/praba-todo/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
+    "index.html": "/praba-todo/index.html",
+    "main.8b679611.css.map": "/praba-todo/static/css/main.8b679611.css.map",
+    "main.ac0c2d31.js.map": "/praba-todo/static/js/main.ac0c2d31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b679611.css",
+    "static/js/main.ac0c2d31.js"
+  ]
+}
